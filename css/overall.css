@@ -45,7 +45,7 @@ body {
 
 .wrapper::after {
   content: "";
-  background: url(https://i.gifer.com/7LOu.gif);
+  background: url("https://i.gifer.com/7LOu.gif");
   opacity: 0.06;
   top: 0;
   left: 0;
